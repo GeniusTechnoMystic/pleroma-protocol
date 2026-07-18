@@ -1,4 +1,4 @@
-# PLEROMA PROTOCOL
+# PROJECT: THE NOOSPHERIC KNOWLEDGE COMMONS (NKC) → PLEROMA PROTOCOL
 
 ## "A Noospheric Knowledge Commons — a decentralized meta-network for federating, stewarding, and trust-weighting all human knowledge across languages, sources, and knowledge systems, with rigorous epistemic controls and graded access aligned with the long-term flourishing of all life."
 
