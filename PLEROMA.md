@@ -812,7 +812,7 @@ The stewardship framework operationalizes the following strategic principles:
 
 ## XIII. ORIGIN CONVERSATIONS (retrieved from chat archives)
 
-This project document synthesizes ideas from the following conversations found in `/home/hermes/workspace/documents/AI/ChatArchives/`:
+This project document synthesizes ideas from the following conversations found in the local chat archive (private — not included in this repo):
 
 1. **ChatGPT, "Test Definitions and Contexts"** (conversations-006.json, ~Apr 2025) — The first known questions: "Which is the most comprehensive knowledge graph of all human knowledge and works (books, papers, patents, journals etc) in all languages?" and "What percentage of all published works have been digitized and integrated into knowledge graphs so far?" Also covered SPARQL, Wikidata ontology, literary work ontologies.
 
